@@ -2,7 +2,7 @@
 
 Mix of [Create Next App](https://nextjs.org/docs/pages/api-reference/create-next-app) and [MUI](https://mui.com) with set of reusable components and utilities to build professional NextJS application faster.
 
-- [Source Code](https://github.com/karpolan/nextjs-mui-starter-ts)
+- [Source Code](https://github.com/magicKraken/nextjs-mui)
 - [Online Demo](https://nextjs-mui-starter-ts.vercel.app)
 
 _Warning: if your are planning to use **Pages Router** (not **App Router**) then use [this template](https://github.com/karpolan/nextjs-with-pages-mui-starter-ts)_
